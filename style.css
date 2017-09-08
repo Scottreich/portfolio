@@ -1,0 +1,10 @@
+#keepcalm {
+  font-family: monospace;
+}
+.warning {
+  width: 300px;
+  height: 100px;
+  padding: 50px;
+  border:1px solid black;
+  box-sizing: border-box;
+}
