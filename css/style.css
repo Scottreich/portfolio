@@ -1,0 +1,40 @@
+#border {
+  color: red;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+/*#index-photo {
+  background-image: url('../img/index.jpg')
+  imag
+}*/
+#keepcalm {
+  font-family: monospace;
+}
+.warning {
+  width: 300px;
+  height: 100px;
+  padding: 50px;
+  border:1px solid black;
+  box-sizing: border-box;
+  float: left;
+}
+  .warning2 {
+    width: 300px;
+    height: 100px;
+    padding: 50px;
+    border:1px solid black;
+    box-sizing: border-box;
+    float: right;
+}
+  /*.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: yellow;
+}*/
+/*.jumbotron {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  /*color: inherit;*/
+  background-image: url()('../img/index.jpg');*/
